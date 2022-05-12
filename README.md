@@ -16,7 +16,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [](https://your-solution-url.com)
-- Live Site URL: [](https://your-live-site-url.com)
+- Live Site URL: [github]( https://ketannegi.github.io/social-proof-frontend-mentor/)
 
 ## My process
 
@@ -29,5 +29,5 @@ Users should be able to:
 
 ## Author
 
-- Website - [github]()
+- Website - [github]( https://ketannegi.github.io/social-proof-frontend-mentor/)
 - Frontend Mentor - [@ketannegi](https://www.frontendmentor.io/profile/ketannegi)
